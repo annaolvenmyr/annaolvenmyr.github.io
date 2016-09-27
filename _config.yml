@@ -8,7 +8,7 @@
 # Site settings
 title: Anna Olvenmyr
 email: anna@annaolvenmyr.se
-description: Anna Olvenmyr - interaktionsdesigner
+description: Anna Olvenmyr - User Experience Designer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
@@ -19,7 +19,7 @@ gems:
 
 # Identity
 your-name: Anna Olvenmyr
-your-title: Interaktionsdesigner
+your-title: User Experience Designer
 
 # Social settings
 # 500px_url:
